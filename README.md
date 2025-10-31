@@ -1,6 +1,6 @@
 j# moji-heirloom-nft-frontend
 # moji-heirloom-nft-frontend
-
+![Moji Heirloom Badge](./moji031/moji0.31logo.png)
 Frontend application for **Moji0.31 Heirloom NFTs**.
 
 This project allows users to:
