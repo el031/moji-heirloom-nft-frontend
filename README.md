@@ -71,7 +71,7 @@ Website: https://moji031-pukjedmfn-electras-projects-331853b6.vercel.app
 {
   "name": "Moji0.31 Heirloom Badge",
   "description": "Official badge for verified Moji0.31 NFT owners. Grants access to heirloom assets and private membership.",
-  "image": "ipfs://<REPLACE_WITH_IMAGE_IPFS_HASH>",
+  "image": "ipfs://<bafybeifvzcilybfaktkmefh65teofulyb2y4qlmygz7gfk3xeq4cucvhtq>",
   "external_url": "https://moji031-pukjedmfn-electras-projects-331853b6.vercel.app/",
   "attributes": [
     { "trait_type": "Generation", "value": "0.31" },
@@ -79,21 +79,3 @@ Website: https://moji031-pukjedmfn-electras-projects-331853b6.vercel.app
     { "trait_type": "Network", "value": "Polygon" }
   ]
 }
-
-
-
-{
-  "name": "Moji0.31 Heirloom Badge",
-  "description": "bafybeifvzcilybfaktkmefh65teofulyb2y4qlmygz7gfk3xeq4cucvhtqOfficial badge for verified Moji0.31 NFT owners. Grants access to heirloom assets and private membership.",
-  "image": "ipfs://<REPLACE_WITH_IMAGE_IPFS_HASH>",
-  "external_url": "https://moji031-pukjedmfn-electras-projects-331853b6.vercel.app/",
-  "attributes": [
-    { "trait_type": "Generation", "value": "0.31" },
-    { "trait_type": "Type", "value": "Heirloom" },
-    { "trait_type": "Network", "value": "Polygon" }
-  ]
-}
-
-
-
-
