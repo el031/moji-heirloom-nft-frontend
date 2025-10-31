@@ -1,6 +1,8 @@
 j# moji-heirloom-nft-frontend
 # moji-heirloom-nft-frontend
-![Moji Heirloom Badge](./moji031/moji0.31logo.png)
+"image": "ipfs://<bafybeifvzcilybfaktkmefh65teofulyb2y4qlmygz7gfk3xeq4cucvhtq>",
+(moji0.31logo.png)
+
 Frontend application for **Moji0.31 Heirloom NFTs**.
 
 This project allows users to:
@@ -45,7 +47,7 @@ This project is licensed under the [MIT License](./LICENSE).curl -X POST "https:
 
 Website: https://moji031-pukjedmfn-electras-projects-331853b6.vercel.app
 
-## Assets- Logo: public/moji0.31logo.png
+## Assets- Logo:moji0.31logo.png
 - Badge: file_000000008ba862469defba236638a9d5.png
 
 ## Deployment
