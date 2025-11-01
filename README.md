@@ -1,5 +1,7 @@
 j# moji-heirloom-nft-frontend
 # moji-heirloom-nft-frontend
+A repository for the Moji0.31 Heirloom NFT website, showcasing the fusion of luxury, legacy, and phygital art.
+
 "image": "ipfs://<bafybeifvzcilybfaktkmefh65teofulyb2y4qlmygz7gfk3xeq4cucvhtq>",
 (moji0.31logo.png)
 
